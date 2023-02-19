@@ -3,6 +3,7 @@ public class GitDemo {
         System.out.println("hello git!");
         System.out.println("hello git000!");
         System.out.println("hello git222!");
+        System.out.println("hot-fix!");
         System.out.println("master");
     }
 }
